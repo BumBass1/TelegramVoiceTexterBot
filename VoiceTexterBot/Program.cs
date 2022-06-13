@@ -43,13 +43,19 @@ namespace VoiceTexterBot
             services.AddSingleton<ITelegramBotClient>(provider => new TelegramBotClient(appSettings.BotToken));
             // регистрируем постоянно активный сервис
             services.AddHostedService<Bot>();
+
+            services.AddSingleton<IFileHandler, AudioFileHandler>();
         }
 
         static AppSettings BuildAppSettings()
         {
             return new AppSettings()
             {
-                BotToken = "5322361796:AAEGaDdjK98x3BNXp77Ipx9zogam1_PTgT0"
+                DownloadsFolder = "C:\\Users\\BumBass\\down",
+                BotToken = "5322361796:AAEGaDdjK98x3BNXp77Ipx9zogam1_PTgT0",
+                AudioFileName = "audio",
+                InputAudioFormat = "ogg",
+                OutputAudioFormat = "wav",
             };
         }
 

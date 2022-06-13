@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QC08ginQvIoC95bAJb2oUVu35FJi4JFX0RTgcxUzaVYGRHpTbjkYNoJYF5dUJOPIR3H5xiyo86F8u6Ov7sy64Q==",
+  "dgSpecHash": "KU0acun/sQhBJAxnAAAg4oPowmnBA8i/LbrQJXcJvyR9Gn+DnUuWSk3p2BDKwIdOnd/8uCV2Udgs7IqnU+q6Qg==",
   "success": true,
   "projectFilePath": "C:\\Users\\BumBass\\source\\repos\\VoiceTexterBot\\VoiceTexterBot\\VoiceTexterBot.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BumBass\\.nuget\\packages\\ffmpegcore\\4.8.0\\ffmpegcore.4.8.0.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\instances\\2.0.0\\instances.2.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -29,15 +31,19 @@
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\BumBass\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\BumBass\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
-    "C:\\Users\\BumBass\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+    "C:\\Users\\BumBass\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "C:\\Users\\BumBass\\.nuget\\packages\\vosk\\0.3.38\\vosk.0.3.38.nupkg.sha512"
   ],
   "logs": []
 }

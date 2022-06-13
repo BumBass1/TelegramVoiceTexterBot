@@ -9,6 +9,6 @@ namespace VoiceTexterBot.Models
     public class Session
     {
         // хранение БД
-        public string LanguaCode { get; set; }
+        public string LanguageCode { get; set; }
     }
 }

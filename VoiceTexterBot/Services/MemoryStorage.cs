@@ -25,7 +25,7 @@ namespace VoiceTexterBot.Services
                 return _sessions[chatId];
 
             // созлаем и возвращаем новую сессии, если такой не было
-            var newSession = new Session() { LanguaCode = "ru" };
+            var newSession = new Session() { LanguageCode = "ru" };
             _sessions.TryAdd(chatId, newSession);
             return newSession;
         }
